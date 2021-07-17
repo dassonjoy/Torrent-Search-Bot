@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 & Hemanta Pokharel & The Anon Cat
+# (c) @AbirHasan2005 & @BlackBox-cmd & Hemanta Pokharel & The Anon Cat
 
 import aiohttp
 from configs import Config
